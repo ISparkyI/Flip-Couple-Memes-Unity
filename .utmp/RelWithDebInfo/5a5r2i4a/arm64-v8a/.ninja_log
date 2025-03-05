@@ -1,0 +1,5 @@
+# ninja log v5
+2	404	7393968867884808	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	d70586445703fd68
+405	820	7393968869832733	D:/Unity/Flip Couple Memes/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5a5r2i4a/obj/arm64-v8a/libswappywrapper.so	19eb43c4d24229e4
+7	987	7394633587809817	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	d70586445703fd68
+988	2063	7394633596839520	D:/Unity/Flip Couple Memes/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5a5r2i4a/obj/arm64-v8a/libswappywrapper.so	19eb43c4d24229e4
