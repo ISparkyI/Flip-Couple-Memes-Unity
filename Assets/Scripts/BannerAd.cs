@@ -7,7 +7,7 @@ public class BannerAd : MonoBehaviour
     private BannerView _bannerView;
 
 #if UNITY_ANDROID
-    private string bANNER_ID = "ca-app-pub-8274586101370231/9844218276";
+    private string bANNER_ID = "";
 #elif UNITY_IPHONE
     private string bANNER_ID = "";
 #else
